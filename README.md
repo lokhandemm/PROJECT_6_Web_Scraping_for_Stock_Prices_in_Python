@@ -1,5 +1,5 @@
 # Project_6_Web_Scraping_for_Stock_Prices_in_Python 
-           
+            
 ## Overview 
 This project extracts real-time stock price data from the web using Python and presents it in a structured format. It utilizes web scraping techniques to fetch stock prices from a financial website.  
      
